@@ -13,7 +13,7 @@ It explores revenue trends per month and year, customer order and products analy
 - How to visualize in Excel
 
 ## Preview
-[Dashboard screenshot](...)
+[Dashboard screenshot](https://github.com/YawGyimah1/Sales-Performance-Analysis/blob/main/Screenshot%202026-06-26%20233441.png)
 
 > Click on the immage above to see a preview of the final dashboard
 # Sales performance analysis
