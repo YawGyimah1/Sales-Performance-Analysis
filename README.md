@@ -5,10 +5,10 @@ Microsoft Excel
 
 ## Project Overview
 This project analyzes the sales performance of a creators studio.
-It explores revenue trends per month and year, customer order and products analysis in an interactive dashboard.
+It explores revenue trends per month and year, customer orders and products analysis in an interactive dashboard.
 
 ## What I Learned
-- How to clean and transform data in Power query
+- How to clean and transform data in Power Query
 - How to summarize KPIs using Pivot Tables.
 - How to visualize in Excel
 
